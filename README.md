@@ -1,4 +1,4 @@
-📄 README.md
+
 Web Scraping is illegal and punishable by law. This is for educational purposes only.
 
 This is first step in creation of my bigger project which can give a comparitive price analysis of several user defined flight routes.
